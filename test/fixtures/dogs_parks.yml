@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dog: one
+  park: one
+  fountain: false
+
+two:
+  dog: two
+  park: two
+  fountain: false

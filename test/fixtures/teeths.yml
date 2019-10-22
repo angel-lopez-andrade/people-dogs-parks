@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  teethable: one
+  teethable_type: Teethable
+  number: 1
+
+two:
+  teethable: two
+  teethable_type: Teethable
+  number: 1
